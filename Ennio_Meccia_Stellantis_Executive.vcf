@@ -2,12 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Meccia;Ennio;;;
 FN:Ennio Meccia
-ORG:Stellantis
+ORG:Stellantis Europe S.p.A.
 TITLE:Supply Chain Operations
-NOTE:Executive Scope
-Global IBT & OBT Transport Governance
-Network Optimization | Cost Performance | Digital Transformation
+ADR;TYPE=WORK:;;;Torino;;;Italy
+EMAIL;TYPE=INTERNET,WORK:ennio.meccia@stellantis.com
 TEL;TYPE=CELL:+393346205880
-ADR;TYPE=WORK:;;Torino;TO;;Italy
 URL;TYPE=WORK:https://linkedin.com/in/ennio-meccia-4070b76
+NOTE:Professional Scope: Global Transport Governance (IBT & OBT) | Network Optimization | Digital Transformation
 END:VCARD
